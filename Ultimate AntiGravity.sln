@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ultimate AntiGravity", "Ultimate AntiGravity\Ultimate AntiGravity\Ultimate AntiGravity.csproj", "{C6561086-3C67-47B4-AE44-31F259A86105}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Ultimate AntiGravityContent", "Ultimate AntiGravity\Ultimate AntiGravityContent\Ultimate AntiGravityContent.contentproj", "{A3A4FD81-8A72-46DE-80D6-F2ED5F56A340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6561086-3C67-47B4-AE44-31F259A86105}.Debug|x86.ActiveCfg = Debug|x86
+		{C6561086-3C67-47B4-AE44-31F259A86105}.Debug|x86.Build.0 = Debug|x86
+		{C6561086-3C67-47B4-AE44-31F259A86105}.Release|x86.ActiveCfg = Release|x86
+		{C6561086-3C67-47B4-AE44-31F259A86105}.Release|x86.Build.0 = Release|x86
+		{A3A4FD81-8A72-46DE-80D6-F2ED5F56A340}.Debug|x86.ActiveCfg = Debug|x86
+		{A3A4FD81-8A72-46DE-80D6-F2ED5F56A340}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
